@@ -81,11 +81,11 @@ namespace ProjectPenjualan
             Console.Write("Total Nota : ");
             jum = int.Parse(Console.ReadLine());
 
-            if (jenis1 == "T")
+            if (jenis1 == "T" || jenis1 == "t")
             {
                 jenis2 = "Tunai";
             }
-            if (jenis1 == "K")
+            if (jenis1 == "K" || jenis1 == "k")
             {
                 jenis2 = "kredit";
             }
