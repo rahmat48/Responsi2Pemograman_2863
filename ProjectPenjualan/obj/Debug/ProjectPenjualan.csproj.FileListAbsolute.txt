@@ -1,0 +1,5 @@
+D:\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+D:\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+D:\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojResolveAssemblyReference.cache
+D:\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+D:\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
